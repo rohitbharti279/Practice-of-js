@@ -123,5 +123,5 @@ fn1("india", callme);
 
 const arr5 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
-console.log(typeof arr5);
+console.log(typeof arr5); // object because Everything in JS is an object
 console.log(Array.isArray(arr5)); //true
